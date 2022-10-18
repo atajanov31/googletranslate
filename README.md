@@ -1,0 +1,2 @@
+# googletranslate
+Uzb - Rus - Ingliz 
